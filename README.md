@@ -8,7 +8,7 @@ As atividades têm como foco a construção da base em lógica de programação 
 
 ## 📚 Conteúdos praticados
 
-- Entrada de dados com 
+- Entrada de dados 
 - Conversão de tipos 
 - Operações matemáticas
 - Cálculo de média
